@@ -9,7 +9,7 @@ E.g., if you have the pattern `$btc = "[13][a-zA-Z0-9]{27,34}"` did you really m
 
 ## Screenshot:
 
-![Screenshot](yara%20udl%20dark%20screenhot.png)
+![Screenshot](yara%20udl%20dark%20screenshot.png)
 
 ## How to use
 
